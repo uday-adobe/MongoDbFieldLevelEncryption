@@ -4,7 +4,7 @@ server:
 spring:
   data:
     mongodb:
-      database: PersonsDBNew
+      database: PersonsDB
       #uri: mongodb://localhost:27017
       uri: mongodb+srv://uday:NQNPQm9axheij5Kb@cluster0-g9hbi.mongodb.net/PersonsDB?authSource=admin
       key:
